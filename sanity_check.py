@@ -13,7 +13,10 @@ marking your code, make sure that your code runs without errors with this script
 
 
 '''
+import weakref
 
+
+weakref
 
 from sokoban import Warehouse
 
